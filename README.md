@@ -85,8 +85,13 @@ May.2013 - Aug.2013
 <!-- EDUCATION Section Starts -->
 ### EDUCATION
 <!-- Add your details -->
-##### LNCT Bhopal
-Engineering Graduate 2010-14, First Division
+#### SINGAPORE MANAGEMENT UNIVERSITY
+_Bachelor of Science in Economics_<br>
+Aug.2011 - May.2016
+<ul>
+  <li> Cumulative GPA: 3.5 / 4.0 _(Cum Laude)_ </li>
+  <li> Awarded Dean's List for Academic Year 2015/16 </li> 
+</ul>
 
 <!-- EDUCATION Section Ends -->
 
