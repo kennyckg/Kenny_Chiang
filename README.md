@@ -31,7 +31,7 @@ I am __Kenny Chiang__, an aspiring data analyst with 4.5 years of investment exp
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### J.P. MORGAN WEALTH MANAGEMENT
+#### J.P. MORGAN WEALTH MANAGEMENT
 _Global Investment Specialist, Associate_<br>
 Jun.2016 - Mar.2021
 <ul>
@@ -40,7 +40,7 @@ Jun.2016 - Mar.2021
   <li> Active management with significant FX- and Fixed Income-orientated clients to grow trading revenue by 10-15% </li>
 </ul>
 
-##### SANFORD C. BERNSTEIN
+#### SANFORD C. BERNSTEIN
 _Intern, Asia Equity Sales_<br>
 Aug.2015 - Dec.2015
 <ul>
@@ -48,7 +48,7 @@ Aug.2015 - Dec.2015
   <li> Prepared equity research summaries for both daily and weekly publications to drive trading activity </li>
 </ul>
 
-##### DEUTSCHE BANK
+#### DEUTSCHE BANK
 _Summer Intern, Deutsche Asset & Wealth Management_<br>
 May.2015 - Jul.2015
 <ul>
@@ -56,7 +56,7 @@ May.2015 - Jul.2015
   <li> Discretionary Portfolio Management (DPM): supported the Asia ex-Japan equity fund manager with thematic research </li>
 </ul>
 
-##### BTG PACTUAL COMMODITIES (SINGAPORE)
+#### BTG PACTUAL COMMODITIES (SINGAPORE)
 _Intern, Asia Coal (Physical & Paper)_<br>
 Jan.2015 - Apr.2015
 <ul>
@@ -64,7 +64,7 @@ Jan.2015 - Apr.2015
   <li> Analysed price curves to aid in pricing and hedging of physical trades; developed an arbitrage table for major coal routes </li>
 </ul>
 
-##### HERITAS CAPITAL MANAGEMENT
+#### HERITAS CAPITAL MANAGEMENT
 _Analyst, Private Equity_<br>
 Jun.2014 - Dec.2014
 <ul>
@@ -72,7 +72,7 @@ Jun.2014 - Dec.2014
   <li> Conducted market research, due diligence on live deals, and prepared investment papers for presentation to Investment Committee </li>
 </ul>
 
-##### RELIGARE CAPITAL MARKETS
+#### RELIGARE CAPITAL MARKETS
 _Summer Analyst, Equity Research (Real Estate)_<br>
 May.2013 - Aug.2013
 <ul>
