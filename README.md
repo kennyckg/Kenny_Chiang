@@ -17,7 +17,7 @@
 
 <!-- Add your details -->
 
-I am __Kenny Chiang__, an aspiring data analyst. I have 4.5 years of investment experience XXX
+I am __Kenny Chiang__, an aspiring data analyst with 4.5 years of investment experience at J.P. Morgan's Private Bank in Singapore. Inspired by the , fuelled by the COVID-19 pandemic, I made the decision to focus on my passion in research/analytics
 
 
 <!-- Add link to the sections -->
@@ -31,9 +31,13 @@ I am __Kenny Chiang__, an aspiring data analyst. I have 4.5 years of investment 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
 <!-- Add your details -->
-##### BOSTON CONSULTING GROUP
-SENIOR ANALYST<br>
-June-2019 to Present: 1 year 10 Months
+##### J.P. MORGAN WEALTH MANAGEMENT
+_Global Investment Specialist, Associate_<br>
+Jun.2016 - Mar.2021
+<ul>
+  <li> Engaged in asset allocation, execution, liability & collateral management, portfolio reviews, and trade-idea generation across asset classes in both public and private investments for a diverse client book of >USD 1bn in assets </li>
+  <li> Analysed market movements and portfolio exposure across clients to provide advice to achieve investment objectives </li>
+  <li> Active management with significant FX- and Fixed Income-orientated clients to grow trading revenue by 10-15% </li>
 
 ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
 UNIT: BCG GAMMA
