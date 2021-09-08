@@ -28,7 +28,7 @@ I am __Kenny Chiang__, an aspiring data analyst with 4.5 years of investment exp
 <!-- PROJECTS Section Starts -->
 ### PROJECTS
 <!-- Add your details -->
-#### [A/B Testing - Cookie Cats](https://github.com/kennyckg/Projects/BCG RISE/MP2_AB Testing_Cookie Cats.ipynb)
+#### [A/B Testing - Cookie Cats](https://github.com/kennyckg/Projects/blob/694fe8baf6abe16942d366288fd5f295ced7704c/BCG%20RISE/MP2_AB%20Testing_Cookie%20Cats.ipynb)
 
 [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
