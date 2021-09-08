@@ -21,12 +21,36 @@ I am __Kenny Chiang__, an aspiring data analyst with 4.5 years of investment exp
 
 
 <!-- Add link to the sections -->
+[Projects](#projects) <br>
 [Experience](#experience) <br>
 [Education](#education) <br>
-[Projects](#projects) <br>
-[Featured](#featured) <br> 
-
 <!-- ABOUT Section Ends -->
+
+<!-- PROJECTS Section Starts -->
+### PROJECTS
+<!-- Add your details -->
+#### ![A/B Testing - Cookie Cats](https://github.com/kennyckg/Projects/blob/694fe8baf6abe16942d366288fd5f295ced7704c/BCG%20RISE/MP2_AB%20Testing_Cookie%20Cats.ipynb)
+
+[Classification based projects](#classification-based-projects) <br>
+[Regression based projects](#regression-based-projects) <br>
+
+<!-- Add your details -->
+
+#### Classification based projects
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
+
+In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
+
+[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
+
+#### Regression based projects
+![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
+
+Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
+
+[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
+
+<!-- PROJECTS Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
 ### EXPERIENCE
@@ -83,8 +107,24 @@ May. 2013 - Aug. 2013
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
-### EDUCATION
+### EDUCATION & CERTIFICATIONS
 <!-- Add your details -->
+#### GOOGLE CAREER CERTIFICATES
+_Data Analytics Professional Certificate_<br>
+Jun. 2021 - Present
+<ul>
+  <li> Extensive online course focused on understanding databases, database querying, data cleaning, data visualization, effective communication and data analytics using SQL, Tableau and R </li>
+</ul>
+
+#### DIGITAL BOSTON CONSULTING GROUP (BCG) ACADEMY
+_Rapid & Immersive Skill Enhancement (RISE) - Business & Data Analytics_<br>
+Mar. 2021 - Aug. 2021
+<ul>
+  <li> A six-month digital skills programme with a specialization in data analytics tools: SQL, Python, and PowerBI </li>
+  <li> Awarded “BCG RISE Distinction Hackathon Project” among top 10 out of 50+ individuals for a project on a real problem statement from a corporate partner; individually conducted external research to further substantiate the team’s recommendations </li>
+  <li> Led a group of seven for a project tasked to identify key challenges and growth-drivers to provide recommendations for a leading multinational technology company; awarded “BCG RISE Top 2 Business Essentials Group Project” among cohort of 50+ </li>  
+</ul>
+
 #### SINGAPORE MANAGEMENT UNIVERSITY
 _Bachelor of Science in Economics_<br>
 Aug. 2011 - May. 2016
@@ -94,38 +134,3 @@ Aug. 2011 - May. 2016
 </ul>
 
 <!-- EDUCATION Section Ends -->
-
-<!-- PROJECTS Section Starts -->
-### PROJECTS
-<!-- Add your details -->
-
-[Classification based projects](#classification-based-projects) <br>
-[Regression based projects](#regression-based-projects) <br>
-
-<!-- Add your details -->
-
-#### Classification based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
-
-In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
-
-#### Regression based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
-
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
-
-<!-- PROJECTS Section Ends -->
-
-<!-- FEATURED Section Starts -->
-## FEATURED
-<!-- Add your details -->
-##### Certifications
-Machine Learning by Columbia University
-
-##### Achievements
-Star performer of the year at Accenture
-<!-- FEATURED Section Ends -->
