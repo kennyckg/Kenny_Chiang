@@ -17,8 +17,7 @@
 
 <!-- Add your details -->
 
-I am __Kenny Chiang__, an aspiring data analyst with 4.5 years of investment experience at J.P. Morgan's Private Bank in Singapore. Inspired by the , fuelled by the COVID-19 pandemic, I made the decision to focus on my passion in research/analytics
-
+I am __Kenny Chiang__, an aspiring data analyst with 4.5 years of investment experience at J.P. Morgan's Private Bank in Singapore. Inspired by the rising trend of data analytics, I made the decision to switch careers and focus on my passion in research/analytics. I am a motivated self-starter, driven by solving complex problems with the willingness and desire to learn. I am also a strong communicator with the ability to tailor technical information for different audiences, honed by my prior experience as an investment advisor. 
 
 <!-- Add link to the sections -->
 [Projects](#projects) <br>
@@ -29,26 +28,10 @@ I am __Kenny Chiang__, an aspiring data analyst with 4.5 years of investment exp
 <!-- PROJECTS Section Starts -->
 ### PROJECTS
 <!-- Add your details -->
-#### [A/B Testing - Cookie Cats](https://github.com/kennyckg/Projects/blob/694fe8baf6abe16942d366288fd5f295ced7704c/BCG%20RISE/MP2_AB%20Testing_Cookie%20Cats.ipynb)
+#### [A/B Testing - Cookie Cats](https://github.com/kennyckg/Projects/BCG RISE/MP2_AB Testing_Cookie Cats.ipynb)
 
 [Classification based projects](#classification-based-projects) <br>
 [Regression based projects](#regression-based-projects) <br>
-
-<!-- Add your details -->
-
-#### Classification based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Classification.png)
-
-In machine learning, classification refers to a predictive modeling problem where a class label is predicted for a given example of input data.
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Classification)
-
-#### Regression based projects
-![alt text](https://raw.githubusercontent.com/krvishwesh54/Kumar-Vishwesh/main/images/Regression.jpg)
-
-Regression is a supervised learning technique which helps in finding the correlation between variables and enables us to predict the continuous output variable based on the one or more predictor variables.
-
-[Click here to view codebase](https://github.com/krvishwesh54/DataScience_DeepLearning_MachineLearning/tree/master/Regression)
 
 <!-- PROJECTS Section Ends -->
 
