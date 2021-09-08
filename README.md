@@ -33,7 +33,7 @@ I am __Kenny Chiang__, an aspiring data analyst with 4.5 years of investment exp
 <!-- Add your details -->
 #### J.P. MORGAN WEALTH MANAGEMENT
 _Global Investment Specialist, Associate_<br>
-Jun.2016 - Mar.2021
+Jun. 2016 - Mar. 2021
 <ul>
   <li> Engaged in asset allocation, execution, liability & collateral management, portfolio reviews, and trade-idea generation across asset classes in both public and private investments for a diverse client book of >USD 1bn in assets </li>
   <li> Analysed market movements and portfolio exposure across clients to provide advice to achieve investment objectives </li>
@@ -42,7 +42,7 @@ Jun.2016 - Mar.2021
 
 #### SANFORD C. BERNSTEIN
 _Intern, Asia Equity Sales_<br>
-Aug.2015 - Dec.2015
+Aug. 2015 - Dec. 2015
 <ul>
   <li> Assisted the team with client-servicing tasks and analysts’ marketing events; independently hosted 1-on-1s with clients </li>
   <li> Prepared equity research summaries for both daily and weekly publications to drive trading activity </li>
@@ -50,7 +50,7 @@ Aug.2015 - Dec.2015
 
 #### DEUTSCHE BANK
 _Summer Intern, Deutsche Asset & Wealth Management_<br>
-May.2015 - Jul.2015
+May. 2015 - Jul. 2015
 <ul>
   <li> SEA Institutional Coverage: involved with preparation of proposals for RFPs, customer profiling, and client-servicing </li>
   <li> Discretionary Portfolio Management (DPM): supported the Asia ex-Japan equity fund manager with thematic research </li>
@@ -58,7 +58,7 @@ May.2015 - Jul.2015
 
 #### BTG PACTUAL COMMODITIES (SINGAPORE)
 _Intern, Asia Coal (Physical & Paper)_<br>
-Jan.2015 - Apr.2015
+Jan. 2015 - Apr. 2015
 <ul>
   <li> Engineered demand/supply models for key coal markets in Asia: Indonesia and Australia </li>
   <li> Analysed price curves to aid in pricing and hedging of physical trades; developed an arbitrage table for major coal routes </li>
@@ -66,7 +66,7 @@ Jan.2015 - Apr.2015
 
 #### HERITAS CAPITAL MANAGEMENT
 _Analyst, Private Equity_<br>
-Jun.2014 - Dec.2014
+Jun. 2014 - Dec. 2014
 <ul>
   <li> Interned at the Private Equity arm of IMC Pan Asia Alliance, in the Global Oil & Gas Fund and Global Resources Fund </li>
   <li> Conducted market research, due diligence on live deals, and prepared investment papers for presentation to Investment Committee </li>
@@ -74,7 +74,7 @@ Jun.2014 - Dec.2014
 
 #### RELIGARE CAPITAL MARKETS
 _Summer Analyst, Equity Research (Real Estate)_<br>
-May.2013 - Aug.2013
+May. 2013 - Aug. 2013
 <ul>
   <li> Published a research note on a listed construction company, entailing analysis on revenue drivers and sector growth prospects </li>
   <li> Designed a spreadsheet of a simulated portfolio of the team’s buy/sell calls, to evaluate the performance of recommendations </li> 
@@ -87,9 +87,9 @@ May.2013 - Aug.2013
 <!-- Add your details -->
 #### SINGAPORE MANAGEMENT UNIVERSITY
 _Bachelor of Science in Economics_<br>
-Aug.2011 - May.2016
+Aug. 2011 - May. 2016
 <ul>
-  <li> Cumulative GPA: 3.5 / 4.0 _(Cum Laude)_ </li>
+  <li> Cumulative GPA: 3.5 / 4.0 (Cum Laude) </li>
   <li> Awarded Dean's List for Academic Year 2015/16 </li> 
 </ul>
 
