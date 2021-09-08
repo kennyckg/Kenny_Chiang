@@ -1,7 +1,7 @@
 # Kenny_Chiang
 
 <!-- CONTACT Section Starts -->
-### CONTACT
+## CONTACT
 
 <!-- Add your details -->
 ✉️: kenny.chiangKG@gmail.com 
@@ -10,7 +10,7 @@
 <!-- CONTACT Section Ends -->
 
 <!-- ABOUT Section Starts -->
-### ABOUT
+## ABOUT
 <!-- Add link to your picture -->
 
 ![alt text](https://github.com/kennyckg/Kenny_Chiang/raw/main/1181%20small.jpg)
@@ -26,7 +26,7 @@ I am __Kenny Chiang__, an aspiring data analyst with 4.5 years of investment exp
 <!-- ABOUT Section Ends -->
 
 <!-- PROJECTS Section Starts -->
-### PROJECTS
+## PROJECTS
 <!-- Add your details -->
 #### [A/B Testing - Cookie Cats](https://github.com/kennyckg/Projects/blob/694fe8baf6abe16942d366288fd5f295ced7704c/BCG%20RISE/MP2_AB%20Testing_Cookie%20Cats.ipynb)
 #### [Churn Prediction Model - Telecommunications](https://github.com/kennyckg/Projects/blob/694fe8baf6abe16942d366288fd5f295ced7704c/BCG%20RISE/MP3_Churn%20Prediction%20Model_Telecommunications.ipynb)
@@ -35,7 +35,7 @@ I am __Kenny Chiang__, an aspiring data analyst with 4.5 years of investment exp
 <!-- PROJECTS Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
-### EXPERIENCE
+## EXPERIENCE
 <!-- Add your details -->
 #### J.P. MORGAN WEALTH MANAGEMENT
 _Global Investment Specialist, Associate_<br>
@@ -89,7 +89,7 @@ May. 2013 - Aug. 2013
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
-### EDUCATION & CERTIFICATIONS
+## EDUCATION & CERTIFICATIONS
 <!-- Add your details -->
 #### GOOGLE CAREER CERTIFICATES
 _Data Analytics Professional Certificate_<br>
