@@ -39,11 +39,41 @@ Jun.2016 - Mar.2021
   <li> Analysed market movements and portfolio exposure across clients to provide advice to achieve investment objectives </li>
   <li> Active management with significant FX- and Fixed Income-orientated clients to grow trading revenue by 10-15% </li>
 
-ROLE: Data Scientist/ Machine Learning Engineer/ AI Consultant
-UNIT: BCG GAMMA
+##### SANFORD C. BERNSTEIN
+_Intern, Asia Equity Sales_<br>
+Aug.2015 - Dec.2015
+<ul>
+  <li> Assisted the team with client-servicing tasks and analysts’ marketing events; independently hosted 1-on-1s with clients </li>
+  <li> Prepared equity research summaries for both daily and weekly publications to drive trading activity </li>
 
-Working on various analytics based cases that facilitates clients for next-generation AI strategy. Involved in asset building while applying scientific algorithms on a huge amount of text, time-series data, images and other forms of unstructured data.
+##### DEUTSCHE BANK
+_Summer Intern, Deutsche Asset & Wealth Management_<br>
+May.2015 - Jul.2015
+<ul>
+  <li> SEA Institutional Coverage: involved with preparation of proposals for RFPs, customer profiling, and client-servicing </li>
+  <li> Discretionary Portfolio Management (DPM): supported the Asia ex-Japan equity fund manager with thematic research </li>
+  
+##### BTG PACTUAL COMMODITIES (SINGAPORE)
+_Intern, Asia Coal (Physical & Paper)_<br>
+Jan.2015 - Apr.2015
+<ul>
+  <li> Engineered demand/supply models for key coal markets in Asia: Indonesia and Australia </li>
+  <li> Analysed price curves to aid in pricing and hedging of physical trades; developed an arbitrage table for major coal routes </li>
+  
+##### HERITAS CAPITAL MANAGEMENT
+_Analyst, Private Equity_<br>
+Jun.2014 - Dec.2014
+<ul>
+  <li> Interned at the Private Equity arm of IMC Pan Asia Alliance, in the Global Oil & Gas Fund and Global Resources Fund </li>
+  <li> Conducted market research, due diligence on live deals, and prepared investment papers for presentation to Investment Committee </li>
 
+##### RELIGARE CAPITAL MARKETS
+_Summer Analyst, Equity Research (Real Estate)_<br>
+May.2013 - Aug.2013
+<ul>
+  <li> Published a research note on a listed construction company, entailing analysis on revenue drivers and sector growth prospects </li>
+  <li> Designed a spreadsheet of a simulated portfolio of the team’s buy/sell calls, to evaluate the performance of recommendations </li> 
+  
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
