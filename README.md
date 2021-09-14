@@ -28,6 +28,8 @@ I am __Kenny Chiang__, an aspiring data analyst with 4.5 years of investment exp
 <!-- PROJECTS Section Starts -->
 ## PROJECTS
 <!-- Add your details -->
+#### [Applications of Machine Learning in Human Resources - Data Cleaning & Exploratory Data Analysis (EDA)](https://github.com/kennyckg/Projects/blob/ada914fce3bda850675acb522d5f37685c39aa0a/Personal/HRProject/HRProject_MachineLearning_DataCleaning&EDA.ipynb)
+#### [Applications of Machine Learning in Human Resources - Multi-classifier Models](https://github.com/kennyckg/Projects/blob/ada914fce3bda850675acb522d5f37685c39aa0a/Personal/HRProject/HRProject_MachineLearning_Multi-Classifier.ipynb)
 #### [A/B Testing - Cookie Cats](https://github.com/kennyckg/Projects/blob/694fe8baf6abe16942d366288fd5f295ced7704c/BCG%20RISE/MP2_AB%20Testing_Cookie%20Cats.ipynb)
 #### [Churn Prediction Model - Telecommunications](https://github.com/kennyckg/Projects/blob/694fe8baf6abe16942d366288fd5f295ced7704c/BCG%20RISE/MP3_Churn%20Prediction%20Model_Telecommunications.ipynb)
 
