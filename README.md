@@ -13,7 +13,7 @@
 ## ABOUT
 <!-- Add link to your picture -->
 
-![alt text](https://github.com/kennyckg/Kenny_Chiang/raw/main/1181%20small.jpg)
+![alt text](https://github.com/kennyckg/Kenny_Chiang/raw/main/KC_Professional.jpg)
 
 <!-- Add your details -->
 
