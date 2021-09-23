@@ -1,38 +1,80 @@
-# Kenny_Chiang
-
-<!-- CONTACT Section Starts -->
-## CONTACT
-
-<!-- Add your details -->
-✉️: kenny.chiangKG@gmail.com 
-&nbsp;&nbsp; 📲 +65-91085626
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kenny-chiang-kai-kuang-84089959/) 
-<!-- CONTACT Section Ends -->
-
 <!-- ABOUT Section Starts -->
 ## ABOUT
-<!-- Add link to your picture -->
+![alt text](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/KC_Professional.jpg)
 
-![alt text](https://github.com/kennyckg/Kenny_Chiang/raw/main/KC_Professional.jpg)
+✉️: kenny.chiangKG@gmail.com 
+&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kenny-chiang-kai-kuang-84089959/)
 
 <!-- Add your details -->
 
 I am __Kenny Chiang__, an aspiring data analyst with 4.5 years of investment experience at J.P. Morgan's Private Bank in Singapore. Inspired by the rising trend of data analytics, I made the decision to switch careers and focus on my passion in research/analytics. I am a motivated self-starter, driven by solving complex problems with the willingness and desire to learn. I am also a strong communicator with the ability to tailor technical information for different audiences, honed by my prior experience as an investment advisor. 
 
 <!-- Add link to the sections -->
+[Certifications](#certifications) <br>
 [Projects](#projects) <br>
 [Experience](#experience) <br>
 [Education](#education) <br>
 <!-- ABOUT Section Ends -->
 
+<!-- CERTIFICATIONS Section Starts -->
+## CERTIFICATIONS
+#### GOOGLE CAREER CERTIFICATES
+_Data Analytics Professional Certificate_<br>
+Jun. 2021 - Sep. 2021
+<ul>
+  <li> Extensive online course focused on understanding databases, database querying, data cleaning, data visualization, effective communication and data analytics using SQL, Tableau and R </li>
+</ul>
+
+![alt text](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/Google_Data_Analytics_Badge.png)
+
+#### DIGITAL BOSTON CONSULTING GROUP (BCG) ACADEMY
+_Rapid & Immersive Skill Enhancement (RISE) - Business & Data Analytics_<br>
+Mar. 2021 - Aug. 2021
+<ul>
+  <li> A six-month digital skills programme with a specialization in data analytics tools: SQL, Python, and PowerBI </li>
+  <li> Awarded “BCG RISE Distinction Hackathon Project” among top 10 out of 50+ individuals for a project on a real problem statement from a corporate partner; individually conducted external research to further substantiate the team’s recommendations </li>
+  <li> Led a group of seven for a project tasked to identify key challenges and growth-drivers to provide recommendations for a leading multinational technology company; awarded “BCG RISE Top 2 Business Essentials Group Project” among cohort of 50+ </li>  
+</ul>
+
+<!-- CERTIFICATIONS Section Ends -->
+
 <!-- PROJECTS Section Starts -->
 ## PROJECTS
-<!-- Add your details -->
-#### [Applications of Machine Learning in Human Resources - Data Cleaning & Exploratory Data Analysis (EDA)](https://github.com/kennyckg/Projects/blob/ada914fce3bda850675acb522d5f37685c39aa0a/Personal/HRProject/HRProject_MachineLearning_DataCleaning&EDA.ipynb)
-#### [Applications of Machine Learning in Human Resources - Multi-classifier Models](https://github.com/kennyckg/Projects/blob/ada914fce3bda850675acb522d5f37685c39aa0a/Personal/HRProject/HRProject_MachineLearning_Multi-Classifier.ipynb)
-#### [A/B Testing - Cookie Cats](https://github.com/kennyckg/Projects/blob/694fe8baf6abe16942d366288fd5f295ced7704c/BCG%20RISE/MP2_AB%20Testing_Cookie%20Cats.ipynb)
-#### [Churn Prediction Model - Telecommunications](https://github.com/kennyckg/Projects/blob/694fe8baf6abe16942d366288fd5f295ced7704c/BCG%20RISE/MP3_Churn%20Prediction%20Model_Telecommunications.ipynb)
+#### [[R] Cyclistic: How does a bike-share company navigate speedy success?](https://kennyckg.github.io/Google-Data-Analytics-Certificate_Cyclistic/)
+_Google Data Analytics Certificate - Capstone_ <br>
+Exploratory Data Analysis <br>
+<ul>
+  <li> Analyzed historical trip data for a bike-share company's marketing team with the objective of converting Casual riders to Member riders </li>
+</ul>
 
+#### [[Python] Applications of Machine Learning in Human Resources](https://github.com/kennyckg/Applications-of-Machine-Learning-in-HR)
+_Personal Project, inspired by Capstone for BCG RISE_ <br>
+Exploratory Data Analysis, Multi-classification Models, Clustering Model
+<ul>
+  <li> Utilized a multi-classifer model (RandomForest) to identify key drivers of employees' performance with Permutation Importance for the HR team to have more effective talent conversations </li>
+  <li> Built a multi-classifer model (RandomForest) to predict employees' risk of attrition to identify individuals for the HR team to intervene and retain top-talent </li>
+  <li> Built a clustering model (K-means) to segment the workforce into "buckets" for broad talent-development strategies </li>
+  <li> Awarded “BCG RISE Capstone Distinction (Business and Data Analytics)” among top 10 out of 50+ individuals </li>
+</ul>
+
+[![BCG RISE Capstone Distinction (Business and Data Analytics)](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/BCG_RISE_Capstone_Distinction.png)](https://www.credly.com/badges/05f95b98-0d37-41b5-ab95-cfb569544838/public_url)
+
+#### [[Python] Churn Prediction Model - Telecommunications](https://github.com/kennyckg/BCG-RISE/blob/main/BCGRise_Mini-Project-3_Churn-Prediction-Model.ipynb)
+_BCG RISE_ <br>
+Binary-classification Model
+<ul>
+  <li> _Work in Progress_ </li>
+  <li> Awarded “BCG RISE TOP 2 Churn Prediction Project” among a cohort of 10 groups </li>
+</ul>
+
+[![BCG RISE TOP 2 Churn Prediction Project](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/BCG_RISE_Top_2_Churn_Prediction_Project.png)](https://www.credly.com/badges/f76436e8-8a12-438d-be3f-3346a739d045/public_url)
+
+#### [[Python] A/B Testing - Cookie Cats](https://github.com/kennyckg/BCG-RISE/blob/main/BCGRise_Mini-Project-2_AB-Testing-Cookie-Cats.ipynb)
+_BCG RISE_ <br>
+A/B Testing
+<ul>
+  <li> _Work in Progress_ </li>
+</ul>
 
 <!-- PROJECTS Section Ends -->
 
@@ -40,7 +82,7 @@ I am __Kenny Chiang__, an aspiring data analyst with 4.5 years of investment exp
 ## EXPERIENCE
 <!-- Add your details -->
 #### J.P. MORGAN WEALTH MANAGEMENT
-_Global Investment Specialist, Associate_<br>
+_Global Investment Specialist, Associate_ <br>
 Jun. 2016 - Mar. 2021
 <ul>
   <li> Engaged in asset allocation, execution, liability & collateral management, portfolio reviews, and trade-idea generation across asset classes in both public and private investments for a diverse client book of >USD 1bn in assets </li>
@@ -91,24 +133,7 @@ May. 2013 - Aug. 2013
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
-## EDUCATION & CERTIFICATIONS
-<!-- Add your details -->
-#### GOOGLE CAREER CERTIFICATES
-_Data Analytics Professional Certificate_<br>
-Jun. 2021 - Present
-<ul>
-  <li> Extensive online course focused on understanding databases, database querying, data cleaning, data visualization, effective communication and data analytics using SQL, Tableau and R </li>
-</ul>
-
-#### DIGITAL BOSTON CONSULTING GROUP (BCG) ACADEMY
-_Rapid & Immersive Skill Enhancement (RISE) - Business & Data Analytics_<br>
-Mar. 2021 - Aug. 2021
-<ul>
-  <li> A six-month digital skills programme with a specialization in data analytics tools: SQL, Python, and PowerBI </li>
-  <li> Awarded “BCG RISE Distinction Hackathon Project” among top 10 out of 50+ individuals for a project on a real problem statement from a corporate partner; individually conducted external research to further substantiate the team’s recommendations </li>
-  <li> Led a group of seven for a project tasked to identify key challenges and growth-drivers to provide recommendations for a leading multinational technology company; awarded “BCG RISE Top 2 Business Essentials Group Project” among cohort of 50+ </li>  
-</ul>
-
+## EDUCATION
 #### SINGAPORE MANAGEMENT UNIVERSITY
 _Bachelor of Science in Economics_<br>
 Aug. 2011 - May. 2016
