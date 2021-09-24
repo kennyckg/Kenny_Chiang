@@ -14,6 +14,8 @@ I am __Kenny Chiang__, an aspiring data analyst with 4.5 years of investment exp
 &nbsp;&nbsp; [Certifications](#certifications)
 &nbsp;&nbsp;&nbsp;&nbsp; [Experience](#experience)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Education](#education)
+
+***
 <!-- ABOUT Section Ends -->
 
 <!-- PROJECTS Section Starts -->
@@ -56,6 +58,7 @@ A/B Testing
   <li> Analyzed data from a A/B experiment for a mobile game developer to guage the efficacy of shifting the gate level from 30 to 40 </li>
 </ul>
 
+***
 <!-- PROJECTS Section Ends -->
 
 <!-- CERTIFICATIONS Section Starts -->
@@ -86,6 +89,7 @@ Mar. 2021 - Aug. 2021
 
 [![BCG RISE Certificate of Completion Business and Data Analytics Program completed with Distinction](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/BCG_RISE_Graduation_Distinction.png)](https://www.credly.com/badges/077f2f32-2aa9-4de8-b43d-25824b49397d/public_url)
 
+***
 <!-- CERTIFICATIONS Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
@@ -140,6 +144,7 @@ May. 2013 - Aug. 2013
   <li> Designed a spreadsheet of a simulated portfolio of the team’s buy/sell calls, to evaluate the performance of recommendations </li> 
 </ul>
 
+***
 <!-- EXPERIENCE Section Ends -->
 
 <!-- EDUCATION Section Starts -->
