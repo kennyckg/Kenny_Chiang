@@ -2,7 +2,7 @@
 ## ABOUT
 ![alt text](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/KC_Professional.jpg)
 
-[LinkedIn](https://www.linkedin.com/in/kenny-chiang-kai-kuang-84089959/) 
+[LinkedIn](https://www.linkedin.com/in/kenny-chiang-kai-kuang) 
 &nbsp;&nbsp; ✉️: kenny.chiangKG@gmail.com
 
 <!-- Add your details -->
@@ -10,11 +10,53 @@
 I am __Kenny Chiang__, an aspiring data analyst with 4.5 years of investment experience at J.P. Morgan's Private Bank in Singapore. Inspired by the rising trend of data analytics, I made the decision to switch careers and focus on my passion in research/analytics. I am a motivated self-starter, driven by solving complex problems with the willingness and desire to learn. I am also a strong communicator with the ability to tailor technical information for different audiences, honed by my prior experience as an investment advisor. 
 
 <!-- Add link to the sections -->
-[Certifications](#certifications) <br>
-[Projects](#projects) <br>
-[Experience](#experience) <br>
-[Education](#education) <br>
+[Projects](#projects)
+&nbsp;&nbsp; [Certifications](#certifications)
+&nbsp;&nbsp;&nbsp;&nbsp; [Experience](#experience)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [Education](#education)
 <!-- ABOUT Section Ends -->
+
+<!-- PROJECTS Section Starts -->
+## PROJECTS
+_Click on the link(s) to view the codebase_
+
+**[[R] Cyclistic: How does a bike-share company navigate speedy success?](https://kennyckg.github.io/Google-Data-Analytics-Certificate_Cyclistic/)** <br>
+_Google Data Analytics Certificate - Capstone_ <br>
+Exploratory Data Analysis <br>
+<ul>
+  <li> Analyzed historical trip data for a bike-share company's marketing team with the objective of converting Casual riders to Member riders </li>
+</ul>
+
+**[[Python] Applications of Machine Learning in Human Resources](https://github.com/kennyckg/Applications-of-Machine-Learning-in-HR)** <br>
+_Personal Project, inspired by Capstone for BCG RISE_ <br>
+Exploratory Data Analysis, Multi-classification Models, Clustering Model
+<ul>
+  <li> Utilized a multi-classifer model (RandomForest) to identify key drivers of employees' performance with Permutation Importance for the HR team to have more effective talent conversations </li>
+  <li> Built a multi-classifer model (RandomForest) to predict employees' risk of attrition to identify individuals for the HR team to intervene and retain top-talent </li>
+  <li> Built a clustering model (K-means) to segment the workforce into "buckets" for broad talent-development strategies </li>
+  <li> Awarded “BCG RISE Capstone Distinction (Business and Data Analytics)” among top 10 out of 50+ individuals </li>
+</ul>
+
+[![BCG RISE Capstone Distinction (Business and Data Analytics)](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/BCG_RISE_Capstone_Distinction.png)](https://www.credly.com/badges/05f95b98-0d37-41b5-ab95-cfb569544838/public_url)
+
+**[[Python] Churn Prediction Model - Telecommunications](https://github.com/kennyckg/BCG-RISE/blob/main/BCGRise_Mini-Project-3_Churn-Prediction-Model.ipynb)** <br>
+_BCG RISE_ <br>
+Binary-classification Model
+<ul>
+  <li> Built a churn prediction model (Logistic Regression and RandomForest) from historical customer data for a major SEA telecommunications company </li>
+  <li> Awarded “BCG RISE TOP 2 Churn Prediction Project” among a cohort of 10 groups </li>
+</ul>
+
+[![BCG RISE TOP 2 Churn Prediction Project](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/BCG_RISE_Top_2_Churn_Prediction_Project.png)](https://www.credly.com/badges/f76436e8-8a12-438d-be3f-3346a739d045/public_url)
+
+**[[Python] A/B Testing - Cookie Cats](https://github.com/kennyckg/BCG-RISE/blob/main/BCGRise_Mini-Project-2_AB-Testing-Cookie-Cats.ipynb)** <br>
+_BCG RISE_ <br>
+A/B Testing
+<ul>
+  <li> Analyzed data from a A/B experiment for a mobile game developer to guage the efficacy of shifting the gate level from 30 to 40 </li>
+</ul>
+
+<!-- PROJECTS Section Ends -->
 
 <!-- CERTIFICATIONS Section Starts -->
 ## CERTIFICATIONS
@@ -45,46 +87,6 @@ Mar. 2021 - Aug. 2021
 [![BCG RISE Certificate of Completion Business and Data Analytics Program completed with Distinction](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/BCG_RISE_Graduation_Distinction.png)](https://www.credly.com/badges/077f2f32-2aa9-4de8-b43d-25824b49397d/public_url)
 
 <!-- CERTIFICATIONS Section Ends -->
-
-<!-- PROJECTS Section Starts -->
-## PROJECTS
-**[[R] Cyclistic: How does a bike-share company navigate speedy success?](https://kennyckg.github.io/Google-Data-Analytics-Certificate_Cyclistic/)** <br>
-_Google Data Analytics Certificate - Capstone_ <br>
-Exploratory Data Analysis <br>
-<ul>
-  <li> Analyzed historical trip data for a bike-share company's marketing team with the objective of converting Casual riders to Member riders </li>
-</ul>
-
-**[[Python] Applications of Machine Learning in Human Resources](https://github.com/kennyckg/Applications-of-Machine-Learning-in-HR)** <br>
-_Personal Project, inspired by Capstone for BCG RISE_ <br>
-Exploratory Data Analysis, Multi-classification Models, Clustering Model
-<ul>
-  <li> Utilized a multi-classifer model (RandomForest) to identify key drivers of employees' performance with Permutation Importance for the HR team to have more effective talent conversations </li>
-  <li> Built a multi-classifer model (RandomForest) to predict employees' risk of attrition to identify individuals for the HR team to intervene and retain top-talent </li>
-  <li> Built a clustering model (K-means) to segment the workforce into "buckets" for broad talent-development strategies </li>
-  <li> Awarded “BCG RISE Capstone Distinction (Business and Data Analytics)” among top 10 out of 50+ individuals </li>
-</ul>
-
-[![BCG RISE Capstone Distinction (Business and Data Analytics)](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/BCG_RISE_Capstone_Distinction.png)](https://www.credly.com/badges/05f95b98-0d37-41b5-ab95-cfb569544838/public_url)
-
-**[[Python] Churn Prediction Model - Telecommunications](https://github.com/kennyckg/BCG-RISE/blob/main/BCGRise_Mini-Project-3_Churn-Prediction-Model.ipynb)** <br>
-_BCG RISE_ <br>
-Binary-classification Model
-<ul>
-  <li> _Work in Progress_ </li>
-  <li> Awarded “BCG RISE TOP 2 Churn Prediction Project” among a cohort of 10 groups </li>
-</ul>
-
-[![BCG RISE TOP 2 Churn Prediction Project](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/BCG_RISE_Top_2_Churn_Prediction_Project.png)](https://www.credly.com/badges/f76436e8-8a12-438d-be3f-3346a739d045/public_url)
-
-**[[Python] A/B Testing - Cookie Cats](https://github.com/kennyckg/BCG-RISE/blob/main/BCGRise_Mini-Project-2_AB-Testing-Cookie-Cats.ipynb)** <br>
-_BCG RISE_ <br>
-A/B Testing
-<ul>
-  <li> _Work in Progress_ </li>
-</ul>
-
-<!-- PROJECTS Section Ends -->
 
 <!-- EXPERIENCE Section Starts -->
 ## EXPERIENCE
