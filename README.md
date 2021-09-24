@@ -25,16 +25,24 @@ Jun. 2021 - Sep. 2021
   <li> Extensive online course focused on understanding databases, database querying, data cleaning, data visualization, effective communication and data analytics using SQL, Tableau and R </li>
 </ul>
 
-![alt text](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/Google_Data_Analytics_Badge.png)
+[![Google Data Analytics Certificate](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/Google_Data_Analytics_Badge.png)](https://www.credly.com/badges/39207529-3602-4282-9edb-f4d81e5286e6/public_url)
 
 #### DIGITAL BOSTON CONSULTING GROUP (BCG) ACADEMY
 _Rapid & Immersive Skill Enhancement (RISE) - Business & Data Analytics_<br>
 Mar. 2021 - Aug. 2021
 <ul>
   <li> A six-month digital skills programme with a specialization in data analytics tools: SQL, Python, and PowerBI </li>
-  <li> Awarded “BCG RISE Distinction Hackathon Project” among top 10 out of 50+ individuals for a project on a real problem statement from a corporate partner; individually conducted external research to further substantiate the team’s recommendations </li>
-  <li> Led a group of seven for a project tasked to identify key challenges and growth-drivers to provide recommendations for a leading multinational technology company; awarded “BCG RISE Top 2 Business Essentials Group Project” among cohort of 50+ </li>  
+  <li> Graduated with Distinction, achieving a final grade among the top 10% of the cohort </li>
+  <li> Achievements: </li>
+    <ul>
+      <li> <a href = "https://www.credly.com/badges/05f95b98-0d37-41b5-ab95-cfb569544838/public_url">BCG RISE Capstone Distinction (Business and Data Analytics)</a></li>
+      <li> <a href = "https://www.credly.com/badges/f76436e8-8a12-438d-be3f-3346a739d045/public_url">BCG RISE TOP 2 Churn Prediction Project</a></li> 
+      <li> <a href = "https://www.credly.com/badges/e88f7cbc-0e82-44ea-a045-e68946e931bc/public_url">BCG RISE Distinction Hackathon Project</a></li>
+      <li> <a href = "https://www.credly.com/badges/cc23e7e4-9fdd-42f9-aead-fec40d45ad30/public_url">BCG RISE Top 2 Business Essentials Group Project</a></li>
+  </ul>
 </ul>
+
+[![BCG RISE Certificate of Completion Business and Data Analytics Program completed with Distinction](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/BCG_RISE_Graduation_Distinction.png)](https://www.credly.com/badges/077f2f32-2aa9-4de8-b43d-25824b49397d/public_url)
 
 <!-- CERTIFICATIONS Section Ends -->
 
