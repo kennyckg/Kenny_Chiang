@@ -33,8 +33,8 @@ Exploratory Data Analysis <br>
 _Personal Project, inspired by Capstone for BCG RISE_ <br>
 Exploratory Data Analysis, Multi-classification Models, Clustering Model
 <ul>
-  <li> Utilized a multi-classifer model (RandomForest) to identify key drivers of employees' performance with Permutation Importance for the HR team to have more effective talent conversations </li>
-  <li> Built a multi-classifer model (RandomForest) to predict employees' risk of attrition to identify individuals for the HR team to intervene and retain top-talent </li>
+  <li> Utilized a multi-classifier model (RandomForest) to identify key drivers of employees' performance with Permutation Importance for the HR team to have more effective talent conversations </li>
+  <li> Built a multi-classifier model (RandomForest) to predict employees' risk of attrition to identify individuals for the HR team to intervene and retain top-talent </li>
   <li> Built a clustering model (K-means) to segment the workforce into "buckets" for broad talent-development strategies </li>
   <li> Awarded “BCG RISE Capstone Distinction (Business and Data Analytics)” among top 10 out of 50+ individuals </li>
 </ul>
@@ -74,7 +74,7 @@ Jun. 2021 - Sep. 2021
 
 **DIGITAL BOSTON CONSULTING GROUP (BCG) ACADEMY** <br>
 _Rapid & Immersive Skill Enhancement (RISE) - Business & Data Analytics_<br>
-Mar. 2021 - Aug. 2021
+Mar. 2021 - Sep. 2021
 <ul>
   <li> A six-month digital skills programme with a specialization in data analytics tools: SQL, Python, and PowerBI </li>
   <li> Graduated with Distinction, achieving a final grade among the top 10% of the cohort </li>
