@@ -70,7 +70,8 @@ Jun. 2021 - Sep. 2021
   <li> Extensive online course focused on understanding databases, database querying, data cleaning, data visualization, effective communication and data analytics using SQL, Tableau and R </li>
 </ul>
 
-[![Google Data Analytics Certificate](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/Google_Data_Analytics_Badge.png)](https://www.credly.com/badges/39207529-3602-4282-9edb-f4d81e5286e6/public_url)
+[![Google Data Analytics Certificate](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/Google_Data_Analytics_Badge.png)](
+https://www.coursera.org/account/accomplishments/specialization/certificate/T2GAXWPKNTAY)
 
 **DIGITAL BOSTON CONSULTING GROUP (BCG) ACADEMY** <br>
 _Rapid & Immersive Skill Enhancement (RISE) - Business & Data Analytics_<br>
@@ -105,7 +106,7 @@ Jun. 2016 - Mar. 2021
 </ul>
 
 **SANFORD C. BERNSTEIN** <br>
-_Intern, Asia Equity Sales_<br>
+_Asia Equity Sales, Intern_<br>
 Aug. 2015 - Dec. 2015
 <ul>
   <li> Assisted the team with client-servicing tasks and analysts’ marketing events; independently hosted 1-on-1s with clients </li>
@@ -113,7 +114,7 @@ Aug. 2015 - Dec. 2015
 </ul>
 
 **DEUTSCHE BANK** <br>
-_Summer Intern, Deutsche Asset & Wealth Management_<br>
+_Deutsche Asset & Wealth Management, Summer Intern_<br>
 May. 2015 - Jul. 2015
 <ul>
   <li> SEA Institutional Coverage: involved with preparation of proposals for RFPs, customer profiling, and client-servicing </li>
@@ -121,7 +122,7 @@ May. 2015 - Jul. 2015
 </ul>
 
 **BTG PACTUAL COMMODITIES (SINGAPORE)** <br>
-_Intern, Asia Coal (Physical & Paper)_<br>
+_Asia Coal (Physical & Paper), Intern_<br>
 Jan. 2015 - Apr. 2015
 <ul>
   <li> Engineered demand/supply models for key coal markets in Asia: Indonesia and Australia </li>
@@ -129,7 +130,7 @@ Jan. 2015 - Apr. 2015
 </ul>
 
 **HERITAS CAPITAL MANAGEMENT** <br>
-_Analyst, Private Equity_<br>
+_Private Equity, Analyst_<br>
 Jun. 2014 - Dec. 2014
 <ul>
   <li> Interned at the Private Equity arm of IMC Pan Asia Alliance, in the Global Oil & Gas Fund and Global Resources Fund </li>
@@ -137,7 +138,7 @@ Jun. 2014 - Dec. 2014
 </ul>
 
 **RELIGARE CAPITAL MARKETS** <br>
-_Summer Analyst, Equity Research (Real Estate)_<br>
+_Equity Research (Real Estate), Summer Analyst_<br>
 May. 2013 - Aug. 2013
 <ul>
   <li> Published a research note on a listed construction company, entailing analysis on revenue drivers and sector growth prospects </li>
@@ -155,6 +156,13 @@ Aug. 2011 - May. 2016
 <ul>
   <li> Cumulative GPA: 3.5 / 4.0 (Cum Laude) </li>
   <li> Awarded Dean's List for Academic Year 2015/16 </li> 
+</ul>
+
+**MAASTRICHT UNIVERSITY (NETHERLANDS)** <br>
+_Overseas Exchange Programme_<br>
+Sep. 2013 - Dec. 2013
+<ul>
+  <li> A four-month study exchange specializing in Economics and Finance </li> 
 </ul>
 
 <!-- EDUCATION Section Ends -->
