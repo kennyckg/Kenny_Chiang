@@ -18,7 +18,7 @@ I am __Kenny Chiang__, an aspiring data analyst with 4.5 years of investment exp
 
 <!-- CERTIFICATIONS Section Starts -->
 ## CERTIFICATIONS
-#### GOOGLE CAREER CERTIFICATES
+**GOOGLE CAREER CERTIFICATES** <br>
 _Data Analytics Professional Certificate_<br>
 Jun. 2021 - Sep. 2021
 <ul>
@@ -27,7 +27,7 @@ Jun. 2021 - Sep. 2021
 
 [![Google Data Analytics Certificate](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/Google_Data_Analytics_Badge.png)](https://www.credly.com/badges/39207529-3602-4282-9edb-f4d81e5286e6/public_url)
 
-#### DIGITAL BOSTON CONSULTING GROUP (BCG) ACADEMY
+**DIGITAL BOSTON CONSULTING GROUP (BCG) ACADEMY** <br>
 _Rapid & Immersive Skill Enhancement (RISE) - Business & Data Analytics_<br>
 Mar. 2021 - Aug. 2021
 <ul>
@@ -48,14 +48,14 @@ Mar. 2021 - Aug. 2021
 
 <!-- PROJECTS Section Starts -->
 ## PROJECTS
-#### [[R] Cyclistic: How does a bike-share company navigate speedy success?](https://kennyckg.github.io/Google-Data-Analytics-Certificate_Cyclistic/)
+**[[R] Cyclistic: How does a bike-share company navigate speedy success?](https://kennyckg.github.io/Google-Data-Analytics-Certificate_Cyclistic/)** <br>
 _Google Data Analytics Certificate - Capstone_ <br>
 Exploratory Data Analysis <br>
 <ul>
   <li> Analyzed historical trip data for a bike-share company's marketing team with the objective of converting Casual riders to Member riders </li>
 </ul>
 
-#### [[Python] Applications of Machine Learning in Human Resources](https://github.com/kennyckg/Applications-of-Machine-Learning-in-HR)
+**[[Python] Applications of Machine Learning in Human Resources](https://github.com/kennyckg/Applications-of-Machine-Learning-in-HR)** <br>
 _Personal Project, inspired by Capstone for BCG RISE_ <br>
 Exploratory Data Analysis, Multi-classification Models, Clustering Model
 <ul>
@@ -67,7 +67,7 @@ Exploratory Data Analysis, Multi-classification Models, Clustering Model
 
 [![BCG RISE Capstone Distinction (Business and Data Analytics)](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/BCG_RISE_Capstone_Distinction.png)](https://www.credly.com/badges/05f95b98-0d37-41b5-ab95-cfb569544838/public_url)
 
-#### [[Python] Churn Prediction Model - Telecommunications](https://github.com/kennyckg/BCG-RISE/blob/main/BCGRise_Mini-Project-3_Churn-Prediction-Model.ipynb)
+**[[Python] Churn Prediction Model - Telecommunications](https://github.com/kennyckg/BCG-RISE/blob/main/BCGRise_Mini-Project-3_Churn-Prediction-Model.ipynb)** <br>
 _BCG RISE_ <br>
 Binary-classification Model
 <ul>
@@ -77,7 +77,7 @@ Binary-classification Model
 
 [![BCG RISE TOP 2 Churn Prediction Project](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/BCG_RISE_Top_2_Churn_Prediction_Project.png)](https://www.credly.com/badges/f76436e8-8a12-438d-be3f-3346a739d045/public_url)
 
-#### [[Python] A/B Testing - Cookie Cats](https://github.com/kennyckg/BCG-RISE/blob/main/BCGRise_Mini-Project-2_AB-Testing-Cookie-Cats.ipynb)
+**[[Python] A/B Testing - Cookie Cats](https://github.com/kennyckg/BCG-RISE/blob/main/BCGRise_Mini-Project-2_AB-Testing-Cookie-Cats.ipynb)** <br>
 _BCG RISE_ <br>
 A/B Testing
 <ul>
@@ -89,7 +89,7 @@ A/B Testing
 <!-- EXPERIENCE Section Starts -->
 ## EXPERIENCE
 <!-- Add your details -->
-#### J.P. MORGAN WEALTH MANAGEMENT
+**J.P. MORGAN WEALTH MANAGEMENT** <br>
 _Global Investment Specialist, Associate_ <br>
 Jun. 2016 - Mar. 2021
 <ul>
@@ -98,7 +98,7 @@ Jun. 2016 - Mar. 2021
   <li> Active management with significant FX- and Fixed Income-orientated clients to grow trading revenue by 10-15% </li>
 </ul>
 
-#### SANFORD C. BERNSTEIN
+**SANFORD C. BERNSTEIN** <br>
 _Intern, Asia Equity Sales_<br>
 Aug. 2015 - Dec. 2015
 <ul>
@@ -106,7 +106,7 @@ Aug. 2015 - Dec. 2015
   <li> Prepared equity research summaries for both daily and weekly publications to drive trading activity </li>
 </ul>
 
-#### DEUTSCHE BANK
+**DEUTSCHE BANK** <br>
 _Summer Intern, Deutsche Asset & Wealth Management_<br>
 May. 2015 - Jul. 2015
 <ul>
@@ -114,7 +114,7 @@ May. 2015 - Jul. 2015
   <li> Discretionary Portfolio Management (DPM): supported the Asia ex-Japan equity fund manager with thematic research </li>
 </ul>
 
-#### BTG PACTUAL COMMODITIES (SINGAPORE)
+**BTG PACTUAL COMMODITIES (SINGAPORE)** <br>
 _Intern, Asia Coal (Physical & Paper)_<br>
 Jan. 2015 - Apr. 2015
 <ul>
@@ -122,7 +122,7 @@ Jan. 2015 - Apr. 2015
   <li> Analysed price curves to aid in pricing and hedging of physical trades; developed an arbitrage table for major coal routes </li>
 </ul>
 
-#### HERITAS CAPITAL MANAGEMENT
+**HERITAS CAPITAL MANAGEMENT** <br>
 _Analyst, Private Equity_<br>
 Jun. 2014 - Dec. 2014
 <ul>
@@ -130,7 +130,7 @@ Jun. 2014 - Dec. 2014
   <li> Conducted market research, due diligence on live deals, and prepared investment papers for presentation to Investment Committee </li>
 </ul>
 
-#### RELIGARE CAPITAL MARKETS
+**RELIGARE CAPITAL MARKETS** <br>
 _Summer Analyst, Equity Research (Real Estate)_<br>
 May. 2013 - Aug. 2013
 <ul>
@@ -142,7 +142,7 @@ May. 2013 - Aug. 2013
 
 <!-- EDUCATION Section Starts -->
 ## EDUCATION
-#### SINGAPORE MANAGEMENT UNIVERSITY
+**SINGAPORE MANAGEMENT UNIVERSITY** <br>
 _Bachelor of Science in Economics_<br>
 Aug. 2011 - May. 2016
 <ul>
