@@ -2,8 +2,8 @@
 ## ABOUT
 ![alt text](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/KC_Professional.jpg)
 
-✉️: kenny.chiangKG@gmail.com 
-&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kenny-chiang-kai-kuang-84089959/)
+[LinkedIn](https://www.linkedin.com/in/kenny-chiang-kai-kuang-84089959/) 
+&nbsp;&nbsp; ✉️: kenny.chiangKG@gmail.com
 
 <!-- Add your details -->
 
