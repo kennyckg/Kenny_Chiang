@@ -156,6 +156,7 @@ Aug. 2011 - May. 2016
 <ul>
   <li> Cumulative GPA: 3.5 / 4.0 (Cum Laude) </li>
   <li> Awarded Dean's List for Academic Year 2015/16 </li> 
+  <li> Teaching Assistant for two separate modules: Management Communication and Management Accounting, assisted the professors with curriculum matters and guidance to students </li> 
 </ul>
 
 **MAASTRICHT UNIVERSITY (NETHERLANDS)** <br>
