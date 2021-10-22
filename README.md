@@ -93,10 +93,14 @@ Mar. 2021 - Sep. 2021
 
 **OTHERS:** <br>
 <ul>
-  <li> <b>Hackerrank</b> &nbsp;&nbsp;&nbsp;&nbsp; Oct. 2021 &nbsp;&nbsp;&nbsp;&nbsp; <i>SQL (Basic)</i> </li>
-  <li> <b>Udemy</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oct. 2021 &nbsp;&nbsp;&nbsp;&nbsp; <i>SQL - MySQL for Data Analytics and Business Intelligence</i> </li>
+  <li> <b>Hackerrank</b> &nbsp;&nbsp;&nbsp;&nbsp; Oct. 2021 &nbsp;&nbsp;&nbsp;&nbsp; <a href = "https://www.hackerrank.com/certificates/6327e52fc115"><i>SQL (Basic)</i></a></li>
+  <li> <b>Udemy</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oct. 2021 &nbsp;&nbsp;&nbsp;&nbsp; <a href = "https://www.udemy.com/certificate/UC-0abf8fc2-e247-4e82-835a-8a8e832b96f4/"> <i>SQL - MySQL for Data Analytics and Business Intelligence</i></a></li>
 </ul>
 
+<p float="left">
+   <a href = "https://www.hackerrank.com/kenny_chiangkg"> <img src="images/Hackerrank_PythonGold_200.PNG" alt="PythonGold" style="width:15%"> </a>
+   <a href = "https://www.hackerrank.com/kenny_chiangkg"> <img src="images/Hackerrank_SQLGold_200.PNG" alt="SQLGold" style="width:15%"> </a>
+</p>
 
 
 ***
