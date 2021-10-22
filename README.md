@@ -2,8 +2,9 @@
 ## ABOUT
 ![alt text](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/KC_Professional.jpg)
 
-[LinkedIn](https://www.linkedin.com/in/kenny-chiang-kai-kuang-84089959) 
-&nbsp;&nbsp; ✉️: kenny.chiangKG@gmail.com
+✉️: kenny.chiangKG@gmail.com
+&nbsp;&nbsp; [LinkedIn](https://www.linkedin.com/in/kenny-chiang-kai-kuang-84089959) 
+&nbsp;&nbsp;&nbsp;&nbsp; [Hackerrank](https://www.hackerrank.com/kenny_chiangkg) 
 
 <!-- Add your details -->
 
@@ -90,6 +91,14 @@ Mar. 2021 - Sep. 2021
 
 [![BCG RISE Certificate of Completion Business and Data Analytics Program completed with Distinction](https://github.com/kennyckg/Kenny_Chiang/raw/main/images/BCG_RISE_Graduation_Distinction.png)](https://www.credly.com/badges/077f2f32-2aa9-4de8-b43d-25824b49397d/public_url)
 
+**OTHERS:** <br>
+<ul>
+  <li> <b>Hackerrank</b> &nbsp;&nbsp;&nbsp;&nbsp; Oct. 2021 &nbsp;&nbsp;&nbsp;&nbsp; <i>SQL (Basic)</i> </li>
+  <li> <b>Udemy</b> &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Oct. 2021 &nbsp;&nbsp;&nbsp;&nbsp; <i>SQL - MySQL for Data Analytics and Business Intelligence</i> </li>
+</ul>
+
+
+
 ***
 <!-- CERTIFICATIONS Section Ends -->
 
@@ -154,6 +163,7 @@ May. 2013 - Aug. 2013
 _Bachelor of Science in Economics_<br>
 Aug. 2011 - May. 2016
 <ul>
+  <li> Double Major in Economics and Finance </li>
   <li> Cumulative GPA: 3.5 / 4.0 (Cum Laude) </li>
   <li> Awarded Dean's List for Academic Year 2015/16 </li> 
   <li> Teaching Assistant for two separate modules: Management Communication and Management Accounting; assisted the professors with curriculum matters and provided guidance to students </li> 
