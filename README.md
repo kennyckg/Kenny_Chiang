@@ -100,6 +100,7 @@ Mar. 2021 - Sep. 2021
 <p float="left">
    <a href = "https://www.hackerrank.com/kenny_chiangkg"> <img src="images/Hackerrank_PythonGold_200.PNG" alt="PythonGold" style="width:15%"> </a>
    <a href = "https://www.hackerrank.com/kenny_chiangkg"> <img src="images/Hackerrank_SQLGold_200.PNG" alt="SQLGold" style="width:15%"> </a>
+   <a href = "https://www.credly.com/badges/4d41f61c-6cb0-49bb-9990-5e5320488f87/public_url"> <img src="images/IBM_Data_Science_Orientation.png" alt="IBM-Data-Science_Orientation" style="width:15%"> </a>
 </p>
 
 
