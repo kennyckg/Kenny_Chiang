@@ -101,6 +101,8 @@ Mar. 2021 - Sep. 2021
    <a href = "https://www.hackerrank.com/kenny_chiangkg"> <img src="images/Hackerrank_PythonGold_200.PNG" alt="PythonGold" style="width:15%"> </a>
    <a href = "https://www.hackerrank.com/kenny_chiangkg"> <img src="images/Hackerrank_SQLGold_200.PNG" alt="SQLGold" style="width:15%"> </a>
    <a href = "https://www.credly.com/badges/4d41f61c-6cb0-49bb-9990-5e5320488f87/public_url"> <img src="images/IBM_Data_Science_Orientation.png" alt="IBM-Data-Science_Orientation" style="width:15%"> </a>
+   <a href = "https://www.credly.com/badges/852df06a-7a4c-4fb8-bb52-95da09c388b0/public_url"> <img src="images/IBM_Data_Science_ToolsForDataScience.png" alt="IBM-Data-Science_Tools-for-Data-Science" style="width:15%"> </a>
+   <a href = "https://www.credly.com/badges/96a01946-6b3c-42c8-b085-eceec3033777/public_url"> <img src="images/IBM_Data_Science_DataScienceMethodology.png" alt="IBM-Data-Science_Data-Science-Methodology" style="width:15%"> </a>
 </p>
 
 
